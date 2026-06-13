@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From “PWNED” to “SUSPENDED” in 4 Easy Steps 💀](https://irad.dev/blog/pwned-to-suspended/)
 - [Agentic AI in Cybersecurity: Moving Toward Fully Autonomous Pentesting](https://irad.dev/blog/agentic-ai-for-cybersecurity/)
 - [When AI ‘Snitches’: Whistleblowing Models, Safety, and What Comes Next](https://irad.dev/blog/ai-snitching-whistleblowing-llms/)
 - [Proactive Security: Make Systems Secure by Design](https://irad.dev/blog/proactive-security-by-design/)
